@@ -80,6 +80,7 @@ List of tutorial participants
 - Junyi Chu (MIT)
 - Maddie Pelz (MIT)
 - Emily Neer (UCLA)
+- Anmol Dhillon (University of California- San Diego)
 
 .. _Github issues overview:
 
